@@ -27,4 +27,5 @@ python_general/soubor.html
 pyspark/iris.data
 pyspark/cereal.csv
 graphs/some_graph.jpg
+environment
 /.idea/*
