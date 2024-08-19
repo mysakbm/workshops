@@ -35,3 +35,6 @@ text/pomocne_soubory/pretrained_models/model_c4.index
 text/pomocne_soubory/pretrained_models/model_qa3.data-00000-of-00001
 text/pomocne_soubory/pretrained_models/model_qa3.index
 /text/.env2
+/text/.env
+/text/DeeplearningAI Embedding/L6_question_embeddings_app.pkl
+/text/DeeplearningAI Embedding/L6_so_database_app.csv
