@@ -39,3 +39,8 @@ text/pomocne_soubory/pretrained_models/model_qa3.index
 /text/DeeplearningAI Embedding/L6_question_embeddings_app.pkl
 /text/DeeplearningAI Embedding/L6_so_database_app.csv
 .ds_store
+/kolmogorov_arnold_networks/creditcard.csv
+/text/source_notebooks/generative_ai_with_llm/W1.pdf
+/text/source_notebooks/generative_ai_with_llm/W2.pdf
+/text/source_notebooks/generative_ai_with_llm/W3.pdf
+/text/.env_user
