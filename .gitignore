@@ -27,7 +27,7 @@ python_general/soubor.html
 machine_learning/e5_onnx_large
 pyspark/iris.data
 pyspark/cereal.csv
-graphs/some_graph.jpg
+plotting_charts/some_graph.jpg
 environment
 /.idea/*
 text/pomocne_soubory/pretrained_models/model_c4.data-00000-of-00001
